@@ -1,6 +1,6 @@
 # BA820 - Group 9 
 
-## Hospitality Intelligence: Extracting Insights from European Hotel Reviews
+## Hospitality Intelligence: Extracting Insights from Hotel Reviews
 
 **By**: Sricharan Mahavadi, Chen He, Eric Bai, Min Xu, Olimpia Borgohain
 
