@@ -1,4 +1,4 @@
-# BA820 - Group 9 - Project Proposal
+# BA820 - Group 9 
 
 ## Hospitality Intelligence: Extracting Insights from European Hotel Reviews
 
