@@ -21,6 +21,7 @@ Can machine learning unlock insights from hotel reviews to help travelers find t
 - **K-means clustering** to group customers based on review patterns.
 - **Hierarchical clustering** to identify hotels with similar reviews.
 - **Sentiment analysis** using NLP techniques like tokenization, lemmatization with NLTK to classify review sentiment and identify positive/negative hotel features.
+- **Market Basket Analysis** to set up recommendation system
 
 ### Process Flow Chart:
 A more detailed approach to our project can be found [here](link_to_process_flow_chart).
