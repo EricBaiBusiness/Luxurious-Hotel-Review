@@ -18,8 +18,9 @@ Can machine learning unlock insights from hotel reviews to help travelers find t
 - The dataset contains 17 features, including text-based customer reviews, numerical data such as average score, latitude, longitude, as well as categorical data such as hotel name, reviewer nationality, and review tags.
 
 ### Proposed Methodologies:
-- **K-means clustering** to group customers based on review patterns.
+- **K-means, K-means++ clustering** to group customers based on review patterns.
 - **Hierarchical clustering** to identify hotels with similar reviews.
+- **DBSCAN Clustering**
 - **Sentiment analysis** using NLP techniques like tokenization, lemmatization with NLTK to classify review sentiment and identify positive/negative hotel features.
 - **Market Basket Analysis** to set up recommendation system
 
